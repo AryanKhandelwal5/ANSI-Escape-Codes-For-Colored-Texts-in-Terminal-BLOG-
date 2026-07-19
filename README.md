@@ -38,32 +38,37 @@ m = **Modify!** This tells the terminal that the command is over, now apply it.
 
 1.**Text Colors**-
 
-🔴 Red: 31
+🔴 Red: 91 or 31 **-USED FOR ERRORS/FAILURE**
 
 
 
-🟢 Green: 32
+🟢 Green: 92 or 32 **-SUCCESS / OK**
 
 
 
-🟡 Yellow: 33
+🟡 Yellow: 93 or 33 **-WARNING**
 
 
 
-🔵 Blue: 34
+🔵 Blue: 94 or 34 **-INFO**
+
+
+🌐 Cyan: 96 or 36 **-METADATA / VARIABLES**
+
+
+🟣 Magenta: 95 or 35
 
 
 
-🟣 Magenta: 35
-
-
-🌐 Cyan: 36
+**Note: 40-47 to Highlight Texts :)**
 
 ---
 
 2.**Text Styles**-
 
 Bold: 1
+
+Dim: 2
 
 Underline: 4
 
