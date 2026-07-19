@@ -1,6 +1,6 @@
 # 🎨 ANSI Escape Codes: Colorful Texts in Your Terminal
 
-**Hacking the Terminal: How to Print **Colorful** Text in Python**
+**Hacking the Terminal: How to Print **Colorful** Text in Your Terminal**
 
 Have you ever looked at a boring, black-and-white terminal and wondered, *"How do hacker movies show those neon green messages?"*
 
@@ -34,7 +34,7 @@ m = **Modify!** This tells the terminal that the command is over, now apply it.
 
 
 
-**🚦The 2026 **Python** Cheat Sheet ( **CodeNumbers** )-**
+**🚦The 2026 **CodeNumbers** Cheat Sheet-**
 
 1.**Text Colors**-
 
@@ -76,10 +76,10 @@ Underline: 4
 
 ⚠️ The Golden Rule of Terminal Colors:
 
-If you tell the trminal to turn Red, it will stay Red **FOREVER**, even after your Python program finishes running! You must ALWAYS add the **RESET code ( \033[0m )** **at the end** of your colored text to turn the colors OFF.
+If you tell the trminal to turn Red, it will stay Red **FOREVER**, even after your program finishes running! You must ALWAYS add the **RESET code ( \033[0m )** **at the end** of your colored text to turn the colors OFF.
 
 ---
-# **Boilerplate Python Using Classes**-
+# **Boilerplate Code in **Python** Using Classes**-
 ```bash
 
 class Color:
@@ -112,7 +112,7 @@ print(f"{Color.BOLD}{Color.CYAN}Welcome to the Matrix.{Color.RESET}")
 ---
 ## 🚀 Conclusion
 
-That’s it! You now know how to build beautiful, colorful **Command Line Interfaces (CLIs)** in Python. 
+That’s it! You now know how to build beautiful, colorful **Command Line Interfaces (CLIs)**. 
 
 By keeping your color codes organized inside a `Class` and using modern `f-strings`, your code naturally remains:
 * ✨ **Clean**
