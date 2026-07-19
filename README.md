@@ -1,6 +1,6 @@
 # 🎨 ANSI Escape Codes: Colorful Texts in Your Terminal
 
-**Hacking the Terminal: How to Print **Colorful** Text in Your Terminal**
+**Hacking the Terminal: How to Print **Colorful** Text in Your Terminal** To Make it look Readable & Professional.
 
 Have you ever looked at a boring, black-and-white terminal and wondered, **"How do hacker movies show those neon green messages?"** or **Displaying errors in Red color** to make it easier to read and understand as a developer.
 
