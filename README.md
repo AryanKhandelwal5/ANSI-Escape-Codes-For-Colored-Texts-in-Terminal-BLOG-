@@ -57,8 +57,8 @@ m = **Modify!** This tells the terminal that the command is over, now apply it.
 🟣 Magenta: 35
 
 
-
 🌐 Cyan: 36
+
 ---
 
 2.**Text Styles**-
