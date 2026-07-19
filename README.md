@@ -21,17 +21,20 @@ When the terminal sees `\033[`, it immediately stops printing the next text and 
 
 ## 📐 **The Formula-**
 ```text
-**\033[ + Code Number + m**
+\033[ + Code Number + m
 ```
 
-\033[ = Start the secret command.
-Code Number = The actual color or style (e.g., 31 for Red).
-m = Modify! This tells the terminal that the command is over, now apply it.
-# So, the code for red text is simply: \033[31m
+\033[ = **Start** the secret command.
+
+Code Number = The actual color or style (e.g., **31 for Red**).
+
+m = **Modify!** This tells the terminal that the command is over, now apply it.
+
+# **So, the code for red text is simply: \033[31m**
 
 
-**🚦The 2026 Python Cheat Sheet (CodeNumbers) -**
-1.Text Colors-
+**🚦The 2026 **Python** Cheat Sheet ( **CodeNumbers** )-**
+1.**Text Colors**-
 
 🔴 Red: 31
 
@@ -55,20 +58,18 @@ m = Modify! This tells the terminal that the command is over, now apply it.
 
 🌐 Cyan: 36
 
-2. Text Styles-
+2. **Text Styles**-
 
 Bold: 1
 
 Underline: 4
 
 
-3. The Most Important Code: RESET
+3. The Most Important Code: **RESET**
 
-🔄 Reset: 0 (\033[0m)
+🔄 **Reset: 0** ( **\033[0m** )
 
 ⚠️ The Golden Rule of Terminal Colors:
 
-If you tell the trminal to turn Red, it will stay Red FOREVER, even after your Python program finishes running! You must ALWAYS add the RESET code (\033[0m) at the end of your colored text to turn the colors OFF.
-
-convert this into professional readme like keep the text same just make some things bold ,etc 
+If you tell the trminal to turn Red, it will stay Red **FOREVER**, even after your Python program finishes running! You must ALWAYS add the **RESET code ( \033[0m )** **at the end** of your colored text to turn the colors OFF.
 
