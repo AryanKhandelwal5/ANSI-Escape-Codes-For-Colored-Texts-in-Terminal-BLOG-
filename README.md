@@ -59,6 +59,7 @@ m = **Modify!** This tells the terminal that the command is over, now apply it.
 
 
 🌐 Cyan: 36
+---
 
 2.**Text Styles**-
 
@@ -66,7 +67,7 @@ Bold: 1
 
 Underline: 4
 
-
+---
 
 3.The Most Important Code: **RESET**
 
